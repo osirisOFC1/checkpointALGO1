@@ -1,0 +1,22 @@
+ALGORITHM checkpoint
+VAR
+ var  length = 0
+ var   words = 0
+ var   vowels = 0
+
+BEGIN
+    print ("we found it")
+    sentence= input()
+    
+    length += 1
+    if char == "":
+        words += 1
+    elif char in "":
+        vowels += 1
+
+
+  print("Length of sentence:", length)
+  print("Number of words:", words+1)
+  print("Number of vowels:", vowels)
+END
+
